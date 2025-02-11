@@ -1,0 +1,10 @@
+fastapi==0.115.7
+uvicorn==0.34.0
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+sqlmodel==0.0.22
+alembic==1.14.0
+python-jose==3.3.0
+black==24.10.0
+pydantic-settings==2.6.1
+fastapi-utils==0.8.0
